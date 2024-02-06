@@ -1,0 +1,83 @@
+Started by user [8mha:////4Hk8gW0jFX0xvweD0ucScRuXmYlh70XklpR5GQ4Gik8mAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+[8mha:////4D0GIP1/Q1uFtB67Wc6Aoq0vfHUqCr3q3K8adUYb93D4AAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4Jt0yopyBU0hX/N8/Wnq65tYxz0fT84iss0Fj9RsVBllAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4NJF3HXTkOpCoGEYZPEwnLgON/3c69cLS8Z5apJqBn8tAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgYB/eT83ILSktQifT9/F1dDfQCjW1X2xQAAAA==[0mNODE1 in /Users/mertcanyuksekkaya/Desktop/selenium-grid/07-jenkins-ci-cd/01-jenkins/volumes/node/workspace/PIPELINE_DEMO
+[8mha:////4FleoveZ8QBZXo4HgGhuvg3azeOUgw0YAgdbotmz4uL5AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4NappepC8uF69e9C1tcs8DeHpUFyo5ymZjM0q979VlIUAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] withEnv
+[8mha:////4MciGkaoa0GNugrwEKaMhpmdkDGbLd2n0BWGEuNzNevnAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] {
+[8mha:////4CrvyigN2tK53WfGQzd+mXSdv5poEf5pHLoGOJ7ymCm6AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gwExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jcChmMxwAAAAA==[0m[Pipeline] stage
+[8mha:////4BL9jHAtgmkEnmJwerUalDMaJFw/eAeb/BcUR6d9obMUAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0BAkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfpX/cvwAAAAA==[0m[Pipeline] { (stage-1)
+[8mha:////4AGOUV5rFrlcOneUPUa0+QXANkJ8/HFpvnm0Aw2cwDS4AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaoyVLaHxBMgiwpL/WWDdrTyRV/MOEjexcpJJ5k3zXm9Y5wQnSpZ7g73DrB2PYbR18YlSfws0cU9XrgkzBcOlmSR15rygpGJgCWtgJWBjUAfKDm2BrfDqodqg0LaXkup3FNC4boAnMFHNRaXyhTnB7j52mfDn+SuAORZg+9pD/AAeoCAqvAAAAA==[0m[Pipeline] sh
++ docker run -e NUMBER=3 seleniarm/hub
+2024-02-06 08:10:03,722 INFO Included extra file "/etc/supervisor/conf.d/selenium-grid-hub.conf" during parsing
+2024-02-06 08:10:03,725 INFO RPC interface 'supervisor' initialized
+2024-02-06 08:10:03,725 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-02-06 08:10:03,725 INFO supervisord started with pid 8
+2024-02-06 08:10:04,734 INFO spawned: 'selenium-grid-hub' with pid 9
+Tracing is disabled
+2024-02-06 08:10:04,750 INFO success: selenium-grid-hub entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+08:10:05.087 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+08:10:05.091 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+08:10:05.148 INFO [BoundZmqEventBus.<init>] - XPUB binding to [binding to tcp://*:4442, advertising as tcp://172.17.0.2:4442], XSUB binding to [binding to tcp://*:4443, advertising as tcp://172.17.0.2:4443]
+08:10:05.179 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://172.17.0.2:4442 and tcp://172.17.0.2:4443
+08:10:05.192 INFO [UnboundZmqEventBus.<init>] - Sockets created
+08:10:06.195 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+08:10:06.629 INFO [Hub.execute] - Started Selenium Hub 4.17.0 (revision e52b1be057*): http://172.17.0.2:4444
+Aborted by [8mha:////4Hk8gW0jFX0xvweD0ucScRuXmYlh70XklpR5GQ4Gik8mAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Sending interrupt signal to process
+Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+2024-02-06 08:10:56,813 WARN received SIGTERM indicating exit request
+2024-02-06 08:10:56,814 INFO waiting for selenium-grid-hub to die
+2024-02-06 08:10:57,821 WARN stopped: selenium-grid-hub (terminated by SIGTERM)
+Shutdown complete
+Shutdown complete
+script returned exit code 143
+[8mha:////4CxW27oG9YEKI/Yw0VWx9Ieeu0iSDy4yry1Pi3TC1WtSAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKBDglR0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8Brmfz270AAAA=[0m[Pipeline] }
+[8mha:////4PcyFYPra23yZs3zcOTSZW0rOwwx+CXqqPWG771wT4yQAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIMlYVjZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8Aj1Msdr0AAAA=[0m[Pipeline] // stage
+[8mha:////4JGOs3O0wgYnPkdkw98XgkcJtEn5nvGjbhhdneXoMKHcAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjKGgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHIHYMxWb7OZZvfPyORMEAAAA=[0m[Pipeline] stage
+[8mha:////4ElMFZjcvKNEYhNWZrHundAa/digtm4buv318bJUXhZQAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Declarative: Post Actions)
+[8mha:////4P9mxM+cVF9mDzqLYgpCqsT3/BHSSyRG0dnw7WWCXDAFAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] sh
++ docker system prune -f
+Deleted Containers:
+4dd698cbedb9a63644dc4659421e0b8a41a0fea6b350400cc53e6b5e01ef695b
+
+Deleted build cache objects:
+luwby65bvpzifl9lnjuxb2x22
+7d9ldx7k0frt8sy6srlurro24
+hpsjewrnlocbxvg36nxzc7tho
+c52946xr9pz5ztbq045km7b4j
+otduesyyb17gmeijf8jb3t676
+a1813ha7qok1kas7koprzngsq
+gplv2xbk4bhjrs6o28trlzbrv
+s5f4v7cd6ggthvm9yn2m0aqbp
+07rzx38js8iwq3obb2nfpttte
+ga4rwioed9x21eomq1eru8in0
+msh386pb56gam49borvmfp319
+pem30fsj9622bmd30rwrd17ty
+r12odiqtvzlxfycu3x6nqkx5z
+o5us98l99y3vmgmtf3r2cmm72
+s93yc6q7v3dygdr50t41zifcu
+ypk8sgvdy8h92snqt8hm0qxr8
+1ra7yxi8awbcob70dvam0fiwb
+40rbkibkivz9tuoyloas821ri
+qkv8uennp5g1z7zp19lbg0hpc
+iqyu1jqe1r5cfpg2fhfjubkxg
+wq5bdvtm1inyw88qa5aw3z66t
+721rbyuxpzidflyzpsxlmi5s6
+qaan2s7z38yy4f2g59wzji9bb
+hui58gtipi44ty963wnlrj49o
+jli1ra6rc8daysuso2e5spx1w
+61nydrybe0ehesdtehje9p9ir
+setb4yh97koc6ljxc8x26bbio
+
+Total reclaimed space: 394.6MB
+[8mha:////4B7T7zuk78OajeThGTK5pCRwWtuafzobdBC6qlgV+ht1AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N7BnLt++AAAA[0m[Pipeline] }
+[8mha:////4DpqJaW8W8osSOizeP/J9LGggI/k6UjiscnPNtYpJ1zKAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N4glvS6+AAAA[0m[Pipeline] // stage
+[8mha:////4PK9bxn8qY71uOhdPGXln3ahYInzpevpAy0pLmzzeBx1AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRDRSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPuZZrjr0AAAA=[0m[Pipeline] }
+[8mha:////4GSycBm6xFryG/6tCV+XOYr3NuZTTnKasEl4QCi+BYSpAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRBRISoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/uBdnuA9JQMpW9AAAA[0m[Pipeline] // withEnv
+[8mha:////4DDfMwFrYpjSkTHBBI9LW8fLMxMsTAadsvp1cIGtJxppAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIREg1CVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9APRJVd+9AAAA[0m[Pipeline] }
+[8mha:////4FeLHm+yhjLjVC0reB+g0CrF1cARvFR12UQ1GiKNt4N/AAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJBUCIqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBj1wny3VaQ7T+IzLXKvQAAAA==[0m[Pipeline] // node
+[8mha:////4PVhol3MKM9Cw0J2tStn3RHibl7ONXCPk6PSqTOlUw62AAAAoh+LCAAAAAAAAP9tjTESgjAQRT84FraWHiKMtI6VbYbGE0SIMZDZxWQRKk/k1byDjMxY+av/XvNeb6xTxJGjU62lzlOqverD4OanRo7dNfCoWr6omilxsKqyY8WNPS1YsVgsy3KsNDaW6sDJkxNsdWsepgiGXHGWOLuDRu6bO57I9FwWE+ULU8TuNjSJ6df5G8DU94K83Auy8gOu1dKAvQAAAA==[0m[Pipeline] End of Pipeline
+org.jenkinsci.plugins.workflow.actions.ErrorAction$ErrorId: a4a472ef-20e8-40b8-b6bc-8d8e4403373f
+Finished: ABORTED

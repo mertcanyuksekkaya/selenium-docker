@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T07:25:27 GMT" name="Test Suite" finished-at="2024-02-05T07:26:12 GMT" duration-ms="44604">
+    <groups>
+      <group name="cucumber">
+        <method signature="TestRunner.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestRunner@3f56875e]" name="runScenario" class="runners.TestRunner"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-02-05T07:25:27 GMT" name="Chrome Test" finished-at="2024-02-05T07:26:12 GMT" duration-ms="44604">
+      <class name="runners.TestRunner">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:runners.TestRunner@3f56875e]" started-at="2024-02-05T07:25:27 GMT" name="setUpSuite" finished-at="2024-02-05T07:25:27 GMT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="setUpCucumber()[pri:0, instance:runners.TestRunner@3f56875e]" started-at="2024-02-05T07:25:27 GMT" name="setUpCucumber" finished-at="2024-02-05T07:25:27 GMT" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpCucumber -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String)[pri:0, instance:runners.TestRunner@3f56875e]" started-at="2024-02-05T07:25:27 GMT" name="setUpClass" finished-at="2024-02-05T07:25:30 GMT" duration-ms="3229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpClass(java.lang.String)[pri:0, instance:runners.TestRunner@3f56875e]" started-at="2024-02-05T07:25:27 GMT" name="setUpClass" finished-at="2024-02-05T07:25:29 GMT" duration-ms="1838" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestRunner@3f56875e]" started-at="2024-02-05T07:25:29 GMT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-02-05T07:26:12 GMT" duration-ms="42639" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["ÜYE GİRİŞİ OLMADAN, KREDİ KARTI İLE VERİLEN KİŞİ BİLGİLERİ VE DESTİNASYONLARDA OTEL REZERVASYONU YAPILMASI"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Hotel Reservation Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestRunner@3f56875e]" started-at="2024-02-05T07:25:30 GMT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-02-05T07:26:11 GMT" duration-ms="41061" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["ÜYE GİRİŞİ OLMADAN, KREDİ KARTI İLE VERİLEN KİŞİ BİLGİLERİ VE DESTİNASYONLARDA OTEL REZERVASYONU YAPILMASI2"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Hotel Reservation Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runners.TestRunner@3f56875e]" started-at="2024-02-05T07:26:12 GMT" name="tearDownClass" finished-at="2024-02-05T07:26:12 GMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:runners.TestRunner@3f56875e]" started-at="2024-02-05T07:26:12 GMT" name="tearDownSuite" finished-at="2024-02-05T07:26:12 GMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- runners.TestRunner -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Test Suite -->
+</testng-results>
