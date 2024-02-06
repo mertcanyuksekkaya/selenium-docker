@@ -2,6 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+example/07-jenkins-ci-cd
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
