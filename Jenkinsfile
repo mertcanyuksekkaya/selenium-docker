@@ -12,7 +12,7 @@ pipeline{
         }
         stage("Build image"){
             steps{
-                sh "docker build -t=mertcany/selenium-grid ."
+                sh "docker build -t=mertcany/selenium-grid:latest ."
             }
         }
         stage("Push image"){
@@ -23,7 +23,9 @@ pipeline{
                 //windows
                 //bat 'docker login -u ${DOCKER_HUB_USR} -p ${DOCKER_HUB_PSW}'
                 sh 'echo ${DOCKER_HUB_PSW} | docker login -u ${DOCKER_HUB_USR} --password-stdin'
-                sh "docker push mertcany/selenium-grid"
+                sh "docker push mertcany/selenium-grid:latest"
+                sh "docker tag mertcany/selenium-grid:latest mertcany/selenium-grid:${env.BUILD_NUMBER}"
+                sh "docker push mertcany/selenium-grid:${env.BUILD_NUMBER}"
             }
         }
     }
